@@ -1,4 +1,4 @@
-module aliakbari/pyroscope-go
+module github/aliakbari/pyroscope-go
 
 go 1.19
 
